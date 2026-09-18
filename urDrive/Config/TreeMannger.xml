@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<Tree>
+  <TreeMannger Name="urDrive">
+    <FirstLevelNode Name="radNodMyFile"  Text="My Files" AssemblyFullPath="" AssemblyName="urDrive.Files"
+                    FolderFullPath="\..\" ModuleName="MyFiles" HasThreeMode="True" DetailsMode="urDrive.Files.frmFilesViewDetails1" 
+                    ThumbnailsMode="urDrive.Files.frmFilesViewThumbNails" CarouselMode="urDrive.Files.frmFilesViewCarousel">
+    </FirstLevelNode>
+
+    <FirstLevelNode Name="radNodMyPictures">
+      <SecondLevelNode Name="radNodMyPhoto"  Text="My Photos" AssemblyFullPath="" AssemblyName="urDrive.Albums"
+                   FolderFullPath="\..\Photos" ModuleName="MyAlbums" HasThreeMode="True" DetailsMode="urDrive.Albums.frmPhotosViewDetails"
+                   ThumbnailsMode="urDrive.Albums.frmPhotosViewThumbNails" CarouselMode="urDrive.Albums.frmPhotosViewCarousel">
+      </SecondLevelNode>
+      <SecondLevelNode Name="radNodMyAlbums"  Text="Photo Albums" AssemblyFullPath="" AssemblyName="urDrive.Albums"
+                    FolderFullPath="\..\Photos" ModuleName="MyAlbums" HasThreeMode="True" DetailsMode="urDrive.Albums.frmAlbumsViewDetails"
+                    ThumbnailsMode="urDrive.Albums.frmAlbumsViewThumbNails" CarouselMode="urDrive.Albums.frmAlbumsViewCarousel">
+      </SecondLevelNode>
+    </FirstLevelNode>
+
+    <FirstLevelNode Name="radNodMyMusics">
+      <SecondLevelNode Name="radNodMyMusic"  Text="My Music" AssemblyFullPath="" AssemblyName="urDrive.Music"
+                   FolderFullPath="\..\Music" ModuleName="MyMusic" HasThreeMode="True" DetailsMode="urDrive.Music.frmMusicViewDetails"
+                   ThumbnailsMode="urDrive.Music.frmMusicViewThumbNails" CarouselMode="urDrive.Music.frmMusicViewCarousel">
+      </SecondLevelNode>
+      <SecondLevelNode Name="radNodMyPlayList"  Text="My Playlist" AssemblyFullPath=""  AssemblyName="urDrive.Music" FolderFullPath="\..\Music"
+                       ModuleName="MyMusic" HasThreeMode="True" DetailsMode="urDrive.Music.frmPlaylistViewDetails"
+                   ThumbnailsMode="urDrive.Music.frmPlaylistViewThumbNails" CarouselMode="urDrive.Music.frmPlaylistViewCarousel"></SecondLevelNode>
+    </FirstLevelNode>
+
+    <FirstLevelNode Name="radNodMyVideo"  Text="My Videos" AssemblyFullPath="" AssemblyName="urDrive.Video"  FolderFullPath="\..\Video" ModuleName="MyVideo" 
+                    HasThreeMode="True" DetailsMode="urDrive.Video.frmVideoViewDetails"
+                    ThumbnailsMode="urDrive.Video.frmVideoViewThumbNails" CarouselMode="urDrive.Video.frmVideoViewCarousel"></FirstLevelNode>
+    <FirstLevelNode Name="radNodMyWhatsNew"  Text="What's New" AssemblyFullPath="" AssemblyName=""  FolderFullPath="\Library\Video" ModuleName="MyVideo" HasThreeMode="True"></FirstLevelNode>
+
+    <FirstLevelNode Name="radNodMyurAppStore">
+      <SecondLevelNode Name="radNodMyurAppStore"  Text="urApp Zone"  AssemblyName="urDrive.urAppZone" AssemblyFullPath="urDrive.urAppZone.frmurAppZoneMain"
+                    ModuleName="MyAppZone" HasThreeMode="false" DetailsMode=""
+                   ThumbnailsMode="" CarouselMode="">
+        <ThirdLevelNode Name="radNodMyFeatured" Text="Featured"  AssemblyName="urDrive.urAppZone" AssemblyFullPath="urDrive.urAppZone.frmurAppZoneMain"
+                    ModuleName="MyAppZone" HasThreeMode="false" DetailsMode=""
+                   ThumbnailsMode="" CarouselMode="">
+          
+        </ThirdLevelNode>
+        <ThirdLevelNode Name="radNodMyTop25" Text="Top 25"  AssemblyName="urDrive.urAppZone" AssemblyFullPath="urDrive.urAppZone.frmurAppZoneMain"
+                   ModuleName="MyAppZone" HasThreeMode="false" DetailsMode=""
+                  ThumbnailsMode="" CarouselMode="">
+        </ThirdLevelNode>
+        <ThirdLevelNode Name="radNodMyCategories" Text="Categories"  AssemblyName="urDrive.urAppZone" AssemblyFullPath="urDrive.urAppZone.frmurAppZoneMain"
+                   ModuleName="MyAppZone" HasThreeMode="false" DetailsMode=""
+                  ThumbnailsMode="" CarouselMode="">
+        </ThirdLevelNode>
+      </SecondLevelNode>
+      <SecondLevelNode Name="radNodMyDownload"  Text="Download"  AssemblyName="urDrive.urAppZone" AssemblyFullPath="urDrive.urAppZone.frmAppDownload"
+                   ModuleName="MyAppZone" HasThreeMode="false" DetailsMode=""
+                  ThumbnailsMode="" CarouselMode="">
+      </SecondLevelNode>
+      <SecondLevelNode Name="radNodMyPurchased"  Text="Purchased"  AssemblyName="urDrive.urAppZone" AssemblyFullPath="urDrive.urAppZone.frmPurChasedViewDetails" FolderFullPath="\..\Apps"
+                 ModuleName="MyAppZone" HasThreeMode="true" DetailsMode="urDrive.urAppZone.frmPurChasedViewDetails" 
+                 ThumbnailsMode="urDrive.urAppZone.frmAppsViewThumbNails" CarouselMode="urDrive.urAppZone.frmAppViewCarousel">
+      </SecondLevelNode>
+    </FirstLevelNode>
+    <FirstLevelNode Name="radNodHelp"  Text="Help" AssemblyFullPath="urDrive.UI.frmHelp" AssemblyName="urDrive"
+                    FolderFullPath="" ModuleName="Help" HasThreeMode="false" DetailsMode=""
+                    ThumbnailsMode="" CarouselMode="">
+    </FirstLevelNode>
+    <FirstLevelNode Name="radNodurAppZone"  Text="urApp Zone" AssemblyFullPath="urDrive.UI.frmAppZone" AssemblyName="urDrive"
+                    FolderFullPath="" ModuleName="AppZone" HasThreeMode="false" DetailsMode=""
+                    ThumbnailsMode="" CarouselMode="">
+    </FirstLevelNode>
+    <FirstLevelNode Name="radNodWhatsNew"  Text="What's New" AssemblyFullPath="urDrive.UI.WhatsNew" AssemblyName="urDrive"
+                   FolderFullPath="" ModuleName="MyWhatsNew" HasThreeMode="false" DetailsMode=""
+                   ThumbnailsMode="" CarouselMode="">
+    </FirstLevelNode>
+    <FirstLevelNode Name="radNodMyApps"  Text="My Apps" AssemblyFullPath="urDrive.urAppZone.frmAppsViewThumbNails" AssemblyName="urDrive.urAppZone"
+                  FolderFullPath="\..\Apps" ModuleName="MyApps" HasThreeMode="false" DetailsMode=""
+                  ThumbnailsMode="" CarouselMode="">
+    </FirstLevelNode>
+</TreeMannger> 
+</Tree>

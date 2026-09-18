@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NavigationItems>
+  <Item Index="0" Name="MyFiles" FullPath="" FunctionType="System" ImageIndex="3" Tag="MyFiles" ToolTip="" Visible="true" />
+  <Item Index="1" Name="AppZone" FullPath="" FunctionType="System" ImageIndex="2" Tag="MyAppZone" ToolTip="" Visible="true" />
+  <Item Index="2" Name="MyApps" FullPath="" FunctionType="System" ImageIndex="5" Tag="MyApps" ToolTip="" Visible="true" />
+  <Item Index="3" Name="What's new" FullPath="" FunctionType="System" ImageIndex="1" Tag="MyWhatsNew" ToolTip="" Visible="true" />
+  <Item Index="4" Name="MySos" FullPath="" FunctionType="System" ImageIndex="4" Tag="MySos" ToolTip="" Visible="true" />
+  <Item Index="5" Name="Roboform" FullPath="" FunctionType="System" ImageIndex="6" Tag="Roboform" ToolTip="" Visible="true" />
+</NavigationItems>

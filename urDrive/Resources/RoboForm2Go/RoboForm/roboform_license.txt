@@ -1,0 +1,358 @@
+ROBOFORM/ROBOFORM2GO SOFTWARE LICENSE AGREEMENT
+
+IMPORTANT: YOU SHOULD CAREFULLY READ THIS 
+LEGAL AGREEMENT BEFORE INSTALLING THIS PACKAGE.
+BY INSTALLING ROBOFORM OR ROBOFORM2GO,
+YOU ACCEPT ALL THE TERMS AND CONDITIONS OF 
+THIS AGREEMENT AND AGREE THAT YOU WILL BE 
+LEGALLY BOUND BY THEM. IF THESE TERMS AND 
+CONDITIONS ARE NOT ACCEPTABLE TO YOU, 
+DO NOT CONTINUE TO INSTALL THIS SOFTWARE.
+
+
+ROBOFORM AND ROBOFORM2GO LICENSE TERMS
+
+Siber Systems Inc ("Siber") grants you ("Customer") 
+a license to use one or more of these four products:
+(i) RoboForm Free,  (ii) RoboForm Pro,
+(iii) RoboForm2Go Free, (iv) RoboForm2Go Pro,
+and their documentation, subject to 
+the separate, applicable provisions below. 
+RoboForm may also be called "AI RoboForm" in RoboForm 
+documentation, web site and the program itself.
+RoboForm2Go may also be called "Portable RoboForm" in 
+documentation, web site and the program itself.
+
+For purposes of the provisions contained below, the 
+term "Customer" shall also apply to Non-Profit Customers 
+as defined below, unless expressly stated otherwise.
+
+
+1A. LICENSE FOR ROBOFORM FREE
+
+RoboForm Free is defined as RoboForm for which Customer did not 
+pay to Siber Systems or a reseller authorized by Siber Systems.
+
+Customer may use RoboForm Free during the Trial Period 
+of Thirty (30) days, starting on the date of the first 
+installation of RoboForm on Customer's computer. 
+Customer must purchase RoboForm Pro once the Trial Period ends 
+or uninstall RoboForm. Each Customer is allowed only one trial.
+
+EXCEPTION FOR NON-PROFIT CUSTOMERS.
+Non-Profit Customers (but not other Customers) are allowed 
+to use RoboForm for free after the 30-day Trial Period ends,
+subject to limitations as described below.
+
+Non-Profit Customer is defined as a customer who uses RoboForm 
+in non-commercial environment for non-profit activity.  
+All Customers who use AI RoboForm in a business, government, 
+military, or religious institution are not Non-Profit Customers
+for the purposes of this agreement. Customers that are students
+of accredited universities and high schools are classified as 
+Non-profit Customers even if a school or university is owned 
+and operated by a government.
+
+Customer agrees that RoboForm Free has certain limitations, 
+that these limitations may change over time without notice 
+or obligation on the part of Siber. These limitations are 
+described at http://www.roboform.com/why-pro.html and are 
+incorporated into this Agreement by reference. It is the 
+Non-Profit Customer's responsibility to review these 
+limitations and abide by them. The Nonprofit Customer agrees to 
+be legally bound by these limitations when using RoboForm Free.
+
+
+1B. LICENSE FOR ROBOFORM2GO FREE
+
+RoboForm2Go Free is defined as RoboForm2Go for which you did not pay
+to Siber Systems or a reseller authorized by Siber Systems.
+
+Customer may use RoboForm2Go Free during the Trial Period 
+of Thirty (30) days, starting on the date of the first 
+installation of RoboForm2Go on Customer's Portable Disk.
+Customer must purchase RoboForm2Go Pro once the Trial Period ends 
+or uninstall RoboForm2Go. Each Customer is allowed only one trial.
+
+Portable Disk is defined as USB key, ZIP disk, floppy disk
+or any disk that can be easily removed from the computer
+and therefore is considered to be portable or removable 
+per Windows Operating System terminology.
+
+EXCEPTION FOR NON-PROFIT CUSTOMERS.
+Non-Profit Customers (but not other Customers) are allowed 
+to use RoboForm2Go for free after the 30-day Trial Period ends,
+subject to limitations as described below.
+
+Definition of Non-Profit Customer is the same as for RoboForm Free. 
+
+Customer agrees that RoboForm2Go Free has certain limitations, 
+that these limitations may change over time without notice 
+or obligation on the part of Siber. These limitations are 
+described at http://www.roboform.com/why-pro.html and are 
+incorporated into this Agreement by reference. It is the 
+Non-Profit Customer's responsibility to review these 
+limitations and abide by them. The Nonprofit Customer agrees to 
+be legally bound by these limitations when using RoboForm2Go Free.
+
+
+2A. LICENSE FOR ROBOFORM PRO (PAID-FOR VERSION)
+
+RoboForm Pro is defined as RoboForm for which Customer did 
+pay to Siber Systems or a reseller authorized by Siber Systems.
+
+Customer who purchased a license for RoboForm Pro is granted a
+nonexclusive license to use RoboForm Pro on a single computer only.
+
+If a Customer has several computers, Customer shall purchase
+additional RoboForm Pro licenses for each computer that 
+Customer installs RoboForm Pro on.
+
+Customer shall not use RoboForm Pro for commercial timesharing.
+Customer shall not rent RoboForm Pro license to other parties.
+
+ONLINE ACTIVATION: Customer hereby agrees to 
+Online Activation process for RoboForm Pro in which 
+RoboForm checks the validity of Customer's RoboForm Pro 
+license by contacting the Siber server via the Internet. 
+Customer also agrees that Online Activation may be 
+used to enforce provision of this Agreement that allows 
+use of one RoboForm Pro license only on one computer.
+
+
+2B. LICENSE FOR ROBOFORM2GO PRO (PAID-FOR VERSION)
+
+RoboForm2Go Pro is defined as RoboForm2Go for which Customer did 
+pay to Siber Systems or a reseller authorized by Siber Systems.
+
+Customer who purchased a license for RoboForm2Go Pro is 
+granted a nonexclusive license to use RoboForm2Go Pro 
+on a single Portable Disk only.
+
+If a Customer has several Portable Disks, Customer shall 
+purchase additional RoboForm2Go Pro licenses for each 
+Portable Disk that Customer installs RoboForm2Go Pro on.
+
+Customer shall not use RoboForm2Go Pro for commercial timesharing.
+Customer shall not rent RoboForm2Go Pro license to other parties.
+
+ONLINE ACTIVATION: Customer hereby agrees to 
+Online Activation process for RoboForm2Go Pro in which 
+RoboForm2Go checks the validity of Customer's RoboForm2Go Pro 
+license by contacting the Siber server via the Internet. 
+Customer also agrees that Online Activation may be 
+used to enforce provision of this Agreement that allows 
+use of one RoboForm2Go Pro license only on one Portable Disk.
+
+
+3. COMMON PROVISIONS FOR ROBOFORM/ROBOFORM2GO PRO
+
+ROBOFORM PRO USERS MANAGEMENT SYSTEM: Personal data 
+of customers that purchase RoboForm Pro or RoboForm2Go Pro 
+is stored in RoboForm Pro Users Management System (PUMS).
+Only the data that customers or their agents enter into 
+the RoboForm Pro purchase web page is stored in the database.
+
+Customer hereby allows Siber to store this data on Siber server.
+This data shall be used for purchase tracking, reactivation
+of RoboForm/RoboForm2Go Pro licenses, refund and chargeback tracking
+and other customer service purposes.
+
+Customer allows Siber to send infrequent product 
+update newsletters and promotional offers
+to email and postal addresses stored in PUMS.
+
+REFUNDS: Siber will refund the full amount paid 
+for RoboForm/RoboForm2Go Pro license if: 
+- The refund request is received by Siber within 30 days 
+  of the date of purchase of RoboForm/RoboForm2Go Pro by Customer, and
+- Customer provides Proof of Purchase, 
+  which is the original email receipt for RoboForm/RoboForm2Go Pro, and
+- Siber is able to locate Customer in the Pro Users 
+  Database (PUMS) using the data provided by Customer.
+
+
+4. GENERAL PROVISIONS FOR ROBOFORM AND ROBOFORM2GO
+
+All provisions in this section apply both to RoboForm Free/Pro 
+and RoboForm2Go Free/Pro even if only RoboForm is mentioned.
+
+COPYRIGHT/OWNERSHIP OF PROGRAM: RoboForm is the proprietary 
+product of Siber Systems and its licensors and it is protected 
+by copyright, trade secret and other intellectual property laws.
+
+Customer acquires only the right to use RoboForm and does not 
+acquire any rights, express or implied, in RoboForm or media 
+containing RoboForm other than those specified in this License.
+
+Siber Systems, or its licensor, shall at all times retain 
+all rights, title, interest, including intellectual property 
+rights, in RoboForm and media.
+
+Customer shall not remove any product identification, copyright
+notices, or other notices or proprietary restrictions from RoboForm.
+
+Customer shall not cause or permit reverse engineering,
+disassembly, or decompilation of RoboForm.
+
+BROWSER MODIFICATIONS:
+RoboForm and RoboForm2Go may install toolbar and Browser Helper Object.
+They are used to fill and save forms in the browsers and
+to cause browser to perform automated logins.
+
+PERSONAL DATA IN ROBOFORM: All data that Customer enters into 
+RoboForm Identities, Passcards and Safenotes is stored only locally 
+on Customer's computer in files with RFT, RFP and RFN extensions. 
+Customer understands that deletion of or damage to RFT, RFP and RFN 
+files will cause irreversible loss of personal information contained 
+in these files and customer accepts the risk of such loss.
+
+NON-TRANSMISSION OF PERSONAL DATA: 
+RoboForm does NOT transmit any data that is contained in 
+Identities, Passcards and Safenotes over the Internet.  
+However, if Customer or a program running on Customer's 
+computer causes RoboForm to fill an online form with such 
+personal data, then submission of this form will result 
+in this data being sent over the Internet but 
+this shall be deemed not to be caused by RoboForm.
+
+RoboForm does NOT send information about sites that you visit
+or any information about your browsing to any servers. 
+
+TRANSMISSION OF DATA IN AUTOUPDATE:
+RoboForm checks Siber Systems server www.siber.com for its 
+new version and security patches approximately once a day. 
+If it finds a version that is newer than the version 
+that you have, RoboForm will offer you to upgrade.
+The checking of new version results in technical data such as 
+operating system and browser version and Registration Data 
+to be transmitted to Siber server and stored on this server.
+Customer hereby allows such transmissions to occur.
+
+Registration Data is defined as Customer name, e-mail address 
+and person/company who referred Customer (referrer) that
+Customer enters into the Registration Dialogue that 
+appears when Customer runs RoboForm for the first time.
+The registration data may be different from similar data
+stored in Customer's Identity. Customer can edit Registration 
+Data by opening "Options", clicking "Version" tab and 
+then clicking "Registration Info" button. 
+Registration Data is not required to be accurate or 
+complete, and it may be not present at all (empty values).
+Customer allows Siber to send infrequent product 
+update newsletters and promotional offers to 
+email addresses obtained from Registration Data.
+
+UNINSTALL INSTRUCTIONS:
+Customer may uninstall RoboForm and RoboForm2Go at any time
+by going to Control Panel, clicking Add/Remove Software
+selecting AI RoboForm and clicking the Remove button.
+RoboForm2Go may be uninstalled at any time by deleting all
+files in RoboForm and My RoboForm Data folders from
+the Portable Disk.
+
+NO WARRANTIES OF ANY KIND: ROBOFORM IS PROVIDED "AS IS" 
+WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, 
+INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES 
+OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.  
+SIBER DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED 
+IN ROBOFORM WILL MEET YOUR REQUIREMENTS OR OPERATE 
+IN AN ENVIRONMENT CREATED BY YOU OR THAT THE OPERATION 
+OF ROBOFORM WILL BE UNINTERRUPTED  OR ERROR FREE OR 
+THAT ROBOFORM ERRORS WILL BE CORRECTED. 
+THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE 
+OF ROBOFORM IS WITH YOU. 
+
+SIBER FURTHER DOES NOT WARRANT THAT 
+PRIVATE INFORMATION THAT BELONGS TO YOU AND 
+THAT YOU STORE IN ROBOFORM WILL NOT BE STOLEN 
+OR OTHERWISE ACQUIRED BY THIRD PARTIES.
+
+LIMITATION OF LIABILITY: NEITHER SIBER SYSTEMS NOR 
+ANY OF ITS LICENSORS SHALL BE LIABLE FOR ANY DAMAGES 
+CAUSED BY ROBOFORM INCLUDING BUT NOT LIMITED TO INDIRECT, 
+INCIDENTAL, SPECIAL OR CONSEQUENTIAL DAMAGES, OR DAMAGES 
+FOR LOSS OF PROFITS, LOSS OF SAVINGS, REVENUE, DATA, 
+INCURRED BY CUSTOMER OR ANY THIRD PARTY, EVEN IF SIBER 
+HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+TERMINATION: This License is effective until terminated or upon
+expiration of the 30-day free trial period where applicable. 
+You may terminate this Agreement at any time by uninstalling
+RoboForm and deleting all its files. This License will 
+terminate immediately without notice from Siber if you 
+fail to comply with any provision of this License.
+Upon termination or expiration of this License 
+you must uninstall RoboForm and delete all its files.
+
+TRADEMARKS: RoboForm (R), RoboForm Free, RoboForm Pro, 
+RoboForm2Go, RoboForm2Go Free, RoboForm2Go Pro,
+Passcard, Safenote and Siber Systems are 
+trademarks and/or trade names owned by Siber Systems Inc. 
+ANY UNAUTHORIZED USE OF THESE TRADEMARKS AND/OR 
+TRADE NAMES OR ANY OTHER INTELLECTUAL PROPERTY 
+OWNED BY SIBER OR ITS LICENSORS IS PROHIBITED.
+
+GOVERNMENT CUSTOMERS: If you are acquiring RoboForm on 
+behalf of any unit or agency of the United States Government, 
+the following provisions apply. The Government agrees that:
+(i) if RoboForm is supplied to the Department of Defense (DoD),
+RoboForm is classified as "Commercial Computer Software" and 
+the Government is acquiring only "restricted rights" in RoboForm 
+and their documentation as that term is defined in Clause
+252.227-7013(c)(1) of the DFARS; and
+(ii) if RoboForm is supplied to any unit or agency of 
+the United States Government other than DoD, the Government's 
+rights in RoboForm and its documentation will be as defined 
+in Clause 52.227-19(c)(2) of the FAR or, in the case of NASA, 
+in Clause 18-52.227-86(d) of the NASA Supplement to the FAR.
+
+EXPORT LAW ASSURANCE: Customer shall comply fully with all laws and
+regulations of the United States and other countries (Export Laws) 
+to assure that neither RoboForm, nor any direct products thereof 
+are Exported, directly or indirectly, in violation of Export Laws, 
+or are used for any purpose prohibited by Export Laws, including, 
+without limitation, nuclear, chemical, or biological weapons 
+proliferation. If RoboForm has been rightfully obtained by you 
+outside of the United States, you agree that you will not re-export 
+RoboForm nor any other technical data received, nor 
+the direct product thereof, except as permitted by the laws and 
+regulations of the United States and the laws and regulations 
+of the jurisdiction in which you obtained RoboForm.
+
+JURISDICTION AND DISPUTES: This Agreement shall be governed 
+by the laws of Virginia. All disputes hereunder shall be 
+resolved in the applicable state or federal courts of Virginia.  
+The parties consent to the jurisdiction of such courts, 
+agree to accept service of process by mail, and waive
+any jurisdictional or venue defenses otherwise available. 
+
+SEVERABILITY: If for any reason a court of competent jurisdiction
+finds any provision of this License or portion thereof, to be
+unenforceable, that provision of the License shall be enforced to the
+maximum extent permissible so as to affect the intent of the parties,
+and the remainder of this License shall continue in full force and
+effect.
+
+COMPLETE AGREEMENT: This License constitutes the entire agreement
+between the parties with respect to the use of RoboForm and the
+related documentation, and supersedes all prior or contemporaneous
+understandings or agreements, written or oral, regarding such subject
+matter. No amendment to or modification of this License will be
+binding unless in writing and signed by a duly authorized
+representative of Siber Systems.
+
+
+5. PRIVACY
+
+ROBOFORM WEB SITE: RoboForm web site may use cookies to track users. 
+RoboForm affiliates and advertisers may also use cookies.
+
+ROBOFORM PRO PURCHASES: see Section 3 for privacy provisions.
+
+PERSONAL DATA IN ROBOFORM: see Section 4 for privacy provisions.
+
+CUSTOMER HEREBY ACKNOWLEDGES THAT CUSTOMER HAS READ 
+THIS AGREEMENT, UNDERSTANDS IT AND AGREES TO BE BOUND 
+BY ITS TERMS AND CONDITIONS.
+

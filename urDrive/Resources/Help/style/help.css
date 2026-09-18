@@ -1,0 +1,125 @@
+/* Web base style file
+ * 
+ * 1、general
+ * 2、layout
+ * 3、header
+ * 4、footer
+ * 5、side bar
+ * 6、crumNav
+ * 7、tool bar
+ * 8、pop modal
+ * 9、tip information
+ * 10、assistant
+ * 11、error page
+ * 12、style
+ * 21、widget - general
+ * 22、widget - button
+ * 23、widget - tabs
+ * 24、widget - box
+ * 25、widget - table
+ * 26、widget - subNav
+ * 27、widget - dropdown list
+ * 99、other
+ * -------------------------------------------------- */
+
+/* 1、general
+ * -------------------------------------------------- */
+@import url(reset.css);
+
+body {
+	background: #fff;
+	color: #707070;
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+	font-size: 1em;
+}
+strong {
+	font-weight: bold;
+}
+strong span{
+	font-weight: normal;
+}
+
+/* 2、layout
+ * -------------------------------------------------- */
+#Wrapper {
+	margin: 0 auto;
+	padding: 5px 0 20px 0;
+	width: 650px;
+	text-align: center;
+}
+
+/* 10、assistant
+ * -------------------------------------------------- */
+.clear {
+	display: block;
+	float: none;
+	clear: both;
+	height: 0px;
+	font-size: 1px;
+	overflow:hidden;
+}
+
+/* 12、style
+ * -------------------------------------------------- */\
+.title {
+	text-align: center;
+	font: bold 12px Arial, Helvetica, sans-serif;
+}
+.logo {
+	text-align: left;
+	padding: 10px 0;
+}
+.mainImg {
+	padding: 10px 0;
+	text-align: center;
+}
+.mainImg h2 {
+	padding: 10px 0;
+	text-align: left;
+	font: bold 17px Arial, Helvetica, sans-serif;
+}
+.mainImg img {
+	margin: 0 0 10px 0;
+	text-align: center;
+}
+.mainImg p {
+	text-align: left;
+}
+
+.mainImg .file-types {
+	text-align: left;
+	padding-left: 60px;
+	padding-bottom:10px;
+}
+
+.mainImg .file-types h3 {
+	padding:0;
+	margin:0 0 10px 0;
+	text-align: left;
+	font: bold 15px Arial, Helvetica, sans-serif;	
+}
+.mainImg .file-types img {
+	position:relative;
+	top:8px;
+	padding:0;
+	margin:0;
+}
+
+.mainImg .file-types ul{
+	list-style-type:disc;
+	list-style-position:inside;
+	padding: 5px 0 5px 0;
+	font-weight:bold;
+}
+
+.mainImg .file-types p,.mainImg .file-types ul {
+	padding-left: 35px;
+}
+
+.more_information {
+	padding:12px 0;
+	text-align:left;
+}

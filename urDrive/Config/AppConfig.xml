@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?>
+<Root>
+  <HomeBannerImage>2010_3_19_10173938853.jpg</HomeBannerImage>
+  <WhatsNew banner_ids="" Dashbanner_ids="" region="US" country="us" UUID="f2596db96ea145b0b49b9f63ba5388af" UpdateWhatsNewSuccess="False" />
+  <AppLanguage>
+    <DefaultLanguage>ru</DefaultLanguage>
+  </AppLanguage>
+  <CustomerSelected SelectedItemName="Accept" />
+  <WelcomeShow IsShow="Yes" />
+</Root>

@@ -1,0 +1,6 @@
+[LANGUAGE]
+LocalizationFile=ru-Russian
+[HELP MESSAGES]
+Welcome_HelpMsg=1
+[CHECKED RUN MESSAGES]
+MsgBoxTaskarIconClosePass2GoPure=1
